@@ -1,11 +1,10 @@
 ---
-layout: page
-title: My Lens
-header: My Lens
-group: navigation
-tagline: "life in focus."
+layout: post
+title: Journal
+cover: null.jpg
+date:   2013-12-09 12:00:00
+categories: posts
 ---
-{% include JB/setup %}
 
 #### Updates<a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
 
