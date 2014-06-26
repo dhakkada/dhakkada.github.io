@@ -1,6 +1,6 @@
 ---
 layout: post
-title: School counselor in training
+title: In training
 date:   2013-12-09 12:00:00
 categories: posts
 ---
