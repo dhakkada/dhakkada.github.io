@@ -22,18 +22,6 @@
   <body>
     <div class="site">
       <div class="sidebar" id="sidebar">
-        <div class="posts">
-          <ul class="posts-list">
-            <!--{% for post in site.posts %}
-              <li class="post-link">
-                <a class="post-title" href="{{ post.url }}">
-                  <span class="post-date">{{ post.date | date_to_string }}</span>
-                  {{ post.title }}
-                </a>
-              </li>
-              {% endfor %}-->&nbsp;
-          </ul>
-        </div>
         <div class="header">
           <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
           <span class="tagline">School Counselor</span>
@@ -44,6 +32,18 @@
             <a href="/academics.html" class="footer-link">Academics</a> <span class="separator">&bull;</span>
             <a href="/experience.html" class="footer-link">Experience</a>
           </span>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <{% for post in site.posts %}
+              <li class="post-link">
+                <a class="post-title" href="{{ post.url }}">
+                  <span class="post-date">{{ post.date | date_to_string }}</span>
+                  {{ post.title }}
+                </a>
+              </li>
+              {% endfor %}&nbsp;
+          </ul>
         </div>
       </div>
 
