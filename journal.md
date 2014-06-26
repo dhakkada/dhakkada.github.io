@@ -3,7 +3,7 @@ layout: default
 title: Journal
 categories:
 ---
-<a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
+### My Journal <a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
 
 
 <ul class="posts">
