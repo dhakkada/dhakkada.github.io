@@ -3,8 +3,9 @@ layout: default
 title: Journal
 categories:
 ---
+<a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
 <p/>
-### My Journal <a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/mylens'>.</a>
+### My Journal
 
 <ul class="posts">
   {% for post in site.posts %}
