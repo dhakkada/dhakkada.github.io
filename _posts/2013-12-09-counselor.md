@@ -3,6 +3,7 @@ layout: post
 title: In training
 date:   2013-12-09 12:00:00
 categories: posts
+tags: professional
 ---
 
 Teachers are the building blocks of a school.
