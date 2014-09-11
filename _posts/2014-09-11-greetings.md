@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Greetings Students
+title: Greetings
 date:   2014-08-06 12:00:00
 categories: posts
 tags: professional
