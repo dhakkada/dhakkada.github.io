@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience
+title: Schools
 cover: null.jpg
 date:   2015-04-01 12:00:00
 categories: posts
