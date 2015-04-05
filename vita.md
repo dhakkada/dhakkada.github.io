@@ -98,3 +98,8 @@ Fluent: English, Hindi, Gujarati
 
 * Mentoring international students during their initial school term for smooth transition in United States
 
+## [Awards and Endowments]()
+
+* David Capuzzi Outstanding Scholar Program Endowment, 2014, Portland State University
+* Best Educator in High School, 2009-2010, Eklavya School, India
+
