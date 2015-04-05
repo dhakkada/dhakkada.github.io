@@ -18,7 +18,8 @@ categories: posts
 Washington is a pre-kindergarten through fifth-grade school with an enrollment that averages 430 students. Head Start program school. District sponsored preschool site. It is a Title I school.
 
 My duties as a professional school counselor included:
-* Providing social, emotional, academic and career counseling for students, and connecting families with community resources
+* Providing social, emotional, academic and career counseling for students
+* Connecting families with community resources
 
 ## [Richmond Elementary School]()
 <img src="/assets/images/salem-keizer.png" alt="Richmond" style="float:right; width: 70px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; margin: 10px 10px 10px 10px;"/>
@@ -27,7 +28,8 @@ My duties as a professional school counselor included:
 Richmond is a kindergarten through fifth-grade school with an enrollment that averages around 350 students. It is a Title I school.
 
 My duties as a professional school counselor included:
-* Providing social, emotional, academic and career counseling for students, and connecting families with community resources
+* Providing social, emotional, academic and career counseling for students
+* Connecting families with community resources
 
 ## [Ceder Park Middle School]()
 
