@@ -8,7 +8,7 @@ categories: posts
 
 ## Dhara Sheth
 
-School Counseling graduate from Portland State University, with a background in Counseling Psychology and Education.
+TPSC Oregon Licensed School Counselor, with a background in Counseling Psychology and Education.
 
 * [License](#license)
 * [Education](#education)
