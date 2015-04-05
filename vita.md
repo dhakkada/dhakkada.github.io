@@ -34,14 +34,15 @@ Initial I School Counselor License with K-12 counseling endorsement from [TSPC O
 
 ## [Counseling Experience]()
 
-10.2013--06.2014 **School Counseling Intern** Cedar Park Middle School (6-8 grade levels) Beaverton School District, 2 days/week
+08.2014--04.2015 **Professional School Counselor** Richmond and Washington Elementary Schools Salem Keizer School District
+
+* Provided social, emotional, academic and career counseling for students from two **Title I** schools (Schools with more than 70% of students below poverty line), and connecting families with community resources
+
+10.2013--06.2014 **School Counseling Intern** Cedar Park Middle School (6-8 grade levels) and Cedar Mill Elementary School (K-5 grade levels) Beaverton School District
 
 * Action Research on career awareness and post-secondary planning for Latina students
 * Interventions on issues such as bullying, diversity inclusion, transition, identity and race, friendship, social skills, and peer conflicts
 * Initiated the development of after-school Student Support Club
-
-08.2013--06.2014 **School Counseling Intern** Cedar Mill Elementary School (K-5 grade levels)  Beaverton School District, 1 day/week
-
 * Classroom guidance lessons based on needs assessment
 * Other duties included lunch groups; attending 504, IEP and RTI meetings
 
@@ -73,6 +74,7 @@ Fluent: English, Hindi, Gujarati
 
 * **MI** - Motivational Interviewing in Schools
 * **ASIST** - Applied Suicide Intervention Skills Training
+* **CampVictory** - Training surrounding issues of child sexual abuse
 * **CGCP** - Model Comprehensive Guidance  Counseling Program for middle school as per ASCA guidelines
 * **Yoga Training** at MS University
 
