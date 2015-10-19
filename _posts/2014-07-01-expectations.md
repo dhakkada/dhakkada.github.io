@@ -1,10 +1,10 @@
 ---
-layout: post
+published: false
 title: Expectations
-categories: posts
-tags: life
+layout: post
+tags: [life]
+categories: [posts]
 ---
-
 This is for the married women who complaints about their husbands’ habits!
 
 When you came in his life, you did not see where he keeps his socks or how many times he uses a coffee mug before considering to wash!
@@ -16,6 +16,6 @@ You feel that he is dirty or clumsy. You feel that his mother did not teach him 
 
 Then my dear lady, think back. Remember your man was satisfied with his life before he met you. Remember that you had liked him as he was. You came and changed the way he arranges his socks or underwear, you changed his eating habits, you change the place he keeps his shoes just because you have lot more than him.
 
-If you really want to get free from his conflicts, let your man decide where he wants to keep his stuff. Let him make those daily decisions where he spends time and how much he eats. Do not become his decision maker that he stops acting by himself! If he has a place or chore in his mind, he will get around to doing it when it feels right for him. You may ask for a timeline or provide a gentle reminder. May be let him know how you feel with unwashed laundry for days. But remember to keep separate laundries!
+If you really want to get free from his conflicts, let your man decide where he wants to keep his stuff. Let him make those daily decisions where he spends time and how much he eats. Do not become his decision maker that he stops acting by himself! If he has a place or chore in his mind, he will get around to doing it when it feels right for him. You may ask for a time-line or provide a gentle reminder. May be let him know how you feel with unwashed laundry for days. But remember to keep separate laundries!
 
-Your mom did not do this. She did all the household work as that was how the roles were divided. For couples today, if both are working then leave the habit of micromanaging your husband and children like your mom. They would do it without you and you get accustomed to that. Do not wish to receive compliments for all you do for them. After all people does what they want to do -- not what another wants them to do. Free yourself! 
+Your mom did not do this. She did all the household work as that was how the roles were divided. For couples today, if both are working then leave the habit of micromanaging your husband and children like your mom. They would do it without you and you get accustomed to that. Do not wish to receive compliments for all you do for them. After all people does what they want to do -- not what another wants them to do. Free yourself!
