@@ -1,11 +1,10 @@
 ---
 published: false
-layout: post
 title: Companion
-categories: [posts]
+layout: post
 tags: [life]
+categories: [posts]
 ---
-
 Someone, somewhere is made for you.... 
 
 I had known this when I was a teenager. It was such a romantic and beautiful
