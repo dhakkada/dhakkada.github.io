@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Companion
-date:   2013-09-01 12:00:00
 categories: [posts]
 tags: [life]
 ---
