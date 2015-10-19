@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Food Connection
-date:   2013-07-01 12:00:00
 categories: posts
 tags: life
 ---
