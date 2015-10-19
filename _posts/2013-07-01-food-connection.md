@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Food Connection
-categories: posts
-tags: life
+categories: [posts]
+tags: [life]
 ---
 
 Summer is coming to an end and I was wondering how much time I invested this summer in cooking.
