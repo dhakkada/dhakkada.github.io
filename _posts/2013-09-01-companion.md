@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Companion
 layout: post
 tags: [life]
