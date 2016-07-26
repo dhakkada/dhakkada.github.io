@@ -5,6 +5,9 @@ layout: post
 tags: [professional]
 categories: [posts]
 ---
+
+## In Training
+
 I had never thought to become a school counselor until I worked with some kids in an elementary school.
 That was in 2007-08 and now in 2014 I have earned my Master’s degree in School Counseling. The path to
 this day wasn’t very planned in detail but enough to reach this level. 

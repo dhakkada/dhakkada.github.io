@@ -5,6 +5,9 @@ layout: post
 tags: [personal]
 categories: [post]
 ---
+
+## Life's gamble
+
 Life can be hard at times for all of us. For us it started when we moved to a new country. It’s not just another country. It’s the United States - a place that people all over the world wishes to come. At the same time, there are thousands of restrictions for immigrants and students like us. Recently, I discovered that countries like Canada, Australia and New Zealand has lesser restrictions for students, their spouses and immigrants. Well, America also had had a permissive immigration system in seventies and eighties. However, it is saturated now, and so the borders are less permeable. 
 
 Yet, here we are after four to five years on student visa. A student visa here means an opportunity to study at one of the world’s best academic institutions, but with little opportunity to earn. Universities here are financially difficult for even locals. Compared to them we paid the international tuition with little earnings other than minor campus jobs. Luckily for us there were opportunities for getting tuition remissions and to survive. However, the gamble is about our most precious years of life. Mind you the youthful years, the most productive 4-5 years of our life have gone into achieving these high degrees for ourselves. The only peace we find, is with the idea that at the end it, will be all good. After 5 years I will be able to work and earn it back. At the end, I will have a sense of achievement, a purpose and be a step closer to my dream.

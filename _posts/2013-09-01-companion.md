@@ -5,6 +5,9 @@ layout: post
 tags: [life]
 categories: [posts]
 ---
+
+## Companion
+
 Someone, somewhere is made for you.... 
 
 I had known this when I was a teenager. It was such a romantic and beautiful

@@ -5,6 +5,9 @@ layout: post
 tags: [professional]
 categories: [posts]
 ---
+
+## Counselor
+
 Teachers are the building blocks of a school.
 
 They touch students life directly and in many indirect ways. Elementary school teachers, especially are ready to see the kids and teach them the best they could. Each year they enthusiastically prepare their room and wait for the kids to enter. They also hope for cooperative and realistic parents.

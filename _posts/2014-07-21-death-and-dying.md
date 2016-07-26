@@ -4,6 +4,9 @@ title: Death and dying
 layout: post
 categories: [posts]
 ---
+
+## Death and dying
+
 Today I received one more death news. One more dear person died yesterday in India and I got the news over the phone. The news was delivered and then it was followed by other news and talk. In these last three years, that I am being away, the news of death of each known one, brings me much closer to the reality of life. 
 One by one it makes me more conscious of this myth that we call life. It brings me more close to miss them. It reminds me that I am still not good. I need to change myself and be loving and kind always, which I am not! It reminds me of the fruitless running behind something assuming that is it! 
 One of the first imprint about life and death was a visit to some Jain temple. I do not remember where, but I do remember looking at a carving that depicts people entering the world and other people exiting the world. The people who were entering, their heads were up. Symbolically showing that they are optimistic about life and are looking forward to it. The people who were leaving, their heads were down. Symbolically showing that they did not do anything that made them feel eternally good about themselves. May be they simply wasted time! Sitting here in this world I do not want to get into how and what of time wasting! 

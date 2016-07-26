@@ -5,6 +5,9 @@ layout: post
 tags: [life]
 categories: [posts]
 ---
+
+## Food Connection
+
 Summer is coming to an end and I was wondering how much time I invested this summer in cooking.
 
 I am excited about the food that I missed for an entire year after coming to US but in this summer I got lucky. It was a new country even in terms of food. It took some time before I could identify the stores that sell things I need, way of bringing those things home without a car in US and finally to be able to cook with the limited supply of utensils and time.
