@@ -34,22 +34,12 @@
           </span>
         </div>
         <div class="posts">
-          <ul class="posts-list">
-            {% assign post = site.posts.first %}
-              <li class="post-link">
-                <a class="post-title" href="{{ post.url }}">
-                  <span class="post-date">{{ post.date | date_to_string }}</span><span style='font-size:80%'>{{ post.title }}</span>
-                </a>
-              </li>
-              <!--{ endfor }-->&nbsp;
-          </ul>
+            <ul>
+              {% for post in site.posts %}
+                <li><span class='date'>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+            </ul>
         </div>
-        <div class="footer">
-          <span id="footer-links">
-            <a href="/journal.html" class="footer-link">Archive</a>
-          </span>
-        </div>
-
       </div>
 
         {{ content }}
