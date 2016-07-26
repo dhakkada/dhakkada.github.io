@@ -84,6 +84,9 @@ a:hover {
 .title {
   display: inline-block;
   text-align: center;
+  font-family: serif;
+  font-style: oblique;
+  font-size: xx-large;
 }
 
 .tagline {
@@ -134,8 +137,8 @@ a:hover {
 
 #title {
   color: #494949;
-  margin-bottom: 0.35em;
-  font-size: 3.5em;
+  margin-bottom: 1.35em;
+  font-size: 3em;
   text-transform: uppercase;
 }
 
@@ -143,6 +146,12 @@ a:hover {
   line-height: 24px;
   max-width: 725px;
   clear: both;
+}
+
+h1 {
+  margin-top: 1.25em;
+  font-size: 3.5em;
+  margin-bottom: 1.25em;
 }
 
 .post h2 {
@@ -153,7 +162,7 @@ a:hover {
 
 .post a,
 #about a {
-  border-bottom: 1px dashed #8085C1;
+  border-bottom: #8085C1;
 }
 
 .post a:hover {
