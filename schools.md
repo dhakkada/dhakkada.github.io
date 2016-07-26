@@ -6,6 +6,8 @@ date:   2015-04-01 12:00:00
 categories: posts
 ---
 
+# Schools
+
 * [Washington Elementary School](#washington-elementary-school)
 * [Richmond Elementary School](#richmond-elementary-school)
 * [Cedar Park Middle School](#ceder-park-middle-school)
