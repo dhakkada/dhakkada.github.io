@@ -31,3 +31,6 @@ Accept the curiosity around this topic in adolescents. Do not shush or quiet the
 Provide books and other learning materials that provide factual information.
 Be comfortable with yourself while talking; If you are embarrassed or ashamed it will be reflected in your conversation.
 Seek help of medical practitioners or counselling professionals when appropriate.
+
+
+Originally published at [poise7](http://blog.poise7.com/sexual-health-hygiene-and-my-reproductive-rights-as-a-woman/).
