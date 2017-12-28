@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Resume
 cover: null.jpg
 date:   2013-12-09 12:00:00
