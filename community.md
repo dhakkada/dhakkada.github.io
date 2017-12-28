@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Community
 cover: null.jpg
 date:   2016-04-01 12:00:00
