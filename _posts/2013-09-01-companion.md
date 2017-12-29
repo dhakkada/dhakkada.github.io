@@ -8,7 +8,8 @@ categories: [posts]
 
 ## Companion
 
-Someone, somewhere is made for you.... 
+![Raja Ravivarma - An Indian girl](https://raw.githubusercontent.com/dhakkada/dhakkada.github.io/master/images/Raja_Ravivarma-Shakuntala.jpg
+){:style="border: 0; padding:10px; max-width:30%; heigth:auto" align="right" }Someone, somewhere is made for you.... 
 
 I had known this when I was a teenager. It was such a romantic and beautiful
 feeling while nervously and curiously trying to know who that someone was!
