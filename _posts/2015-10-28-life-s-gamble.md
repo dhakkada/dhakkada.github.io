@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Life's gamble
 layout: post
 tags: [personal]
