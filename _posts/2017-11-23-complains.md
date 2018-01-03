@@ -8,7 +8,7 @@ categories: [posts]
 
 ## Complains about _habits_
 
-This is for the married women who complain about their husbands’ habits!!
+This is for women who complain about their partner's habits!!
 
 When you came in his life, you did not bother where he keeps his socks or how many times he uses a coffee mug before considering to wash!
 
