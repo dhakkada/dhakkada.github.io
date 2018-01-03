@@ -3,8 +3,8 @@ layout: default
 title: Journal
 categories:
 ---
-<a href='http://tinypress.co'>x</a>
-<a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/'>.</a>
+<a href='https://github.com/dhakkada/dhakkada.github.io/new/master/_posts'>New post</a>
+<a href='https://github.com/dhakkada/dhakkada.github.io/tree/master/_posts/'>Posts</a>
 <p/>
 ### My Journal
 
