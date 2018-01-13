@@ -6,7 +6,9 @@ tags: [life]
 categories: [posts]
 ---
 
-# Need of the hour- Criminal background check in India
+# Need of the hour
+
+## Criminal background check in India
 
 As an educator and a counselor, I have worked with students of different ages in India and in the United States. Before starting my internship at a school in the state of Oregon (US) and in order to be able to work with minors, one of the mandatory requirements was to pass a criminal background check.
 
