@@ -1,6 +1,6 @@
 ---
 published: true
-title: Household chores: Who is responsible?
+title: Household chores, Who is responsible?
 layout: post
 tags: [life]
 categories: [posts]
