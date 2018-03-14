@@ -6,7 +6,7 @@ tags: [life]
 categories: [posts]
 ---
 
-# Household chores: Who is responsible?
+## Household chores: Who is responsible?
 
 Due to International Women’s day, there is a deluge of beautiful messages celebrating women on social media this week. In some way, these messages reflect the attitude and perception we have for women across the world. A few highlight her perseverance against often insurmountable odds, while others emphasize her nurturing aspect and the sacrifices a women willingly makes for her family. These messages asks us to appreciate a woman as an individual, and not as a mere cog in the wheel.
 Simultaneously this week, I was reading about the distribution of hours a woman puts into her household work, caring for her children, and other family members, and even finding time to run external errands. I am in the transition phase where my baby has started daycare and I am almost ready to go back to work. Hence, I was anxious if I was signing up for more work than I can handle, that too in a foreign land where hired-help for household chores is rare to come by. Hence, I have to rely on a significant contribution towards household chores from my husband.
