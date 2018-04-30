@@ -7,4 +7,4 @@ categories: posts
 ---
 # Internship
 
-![Action Research](/assets/PSU-ActionResearch.pdf)
+[Action Research](/assets/PSU-ActionResearch.pdf)
