@@ -7,4 +7,4 @@ categories: posts
 ---
 # Internship
 
-[Action Research](/assets/PSU-ActionResearch.pdf)
+[Action Research](/assets/PSU-ActionResearch.pdf) *To study the effect of career exploration interventions on Hispanic (Latina) students academic goals and post-secondary planning*, Portland State University, Oregon, United States, 2014
