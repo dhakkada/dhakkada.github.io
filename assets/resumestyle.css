@@ -375,10 +375,7 @@ li{
 @media print {
   .page-break	{ display: block; page-break-before: always; }
 	
-  h2 { 
-    page-break-before: always;
-  }
-  h3, h4 {
+  h2, h3, h4 {
     page-break-after: avoid;
   }
   pre, blockquote {
