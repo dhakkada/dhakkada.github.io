@@ -369,9 +369,19 @@ li{
 }
 
 @media all {
-	.page-break	{ display: none; }
+  .page-break	{ display: none; }
 }
 
 @media print {
-	.page-break	{ display: block; page-break-before: always; }
+  .page-break	{ display: block; page-break-before: always; }
+	
+  h2 { 
+    page-break-before: always;
+  }
+  h3, h4 {
+    page-break-after: avoid;
+  }
+  pre, blockquote {
+    page-break-inside: avoid;
+  }
 }
