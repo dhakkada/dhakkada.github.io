@@ -6,6 +6,8 @@ tags: [life]
 categories: [posts]
 ---
 
+# Check your privilege!
+
 In 1989, Peggy McIntosh a White American researcher developed a
 checklist based on her experiences of privilege as a White woman. This
 is a powerful exercise to understand your power and privilege as you
