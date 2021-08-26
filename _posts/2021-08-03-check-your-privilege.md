@@ -7,15 +7,14 @@ categories: [posts]
 ---
 
 # Check your privilege!
+In 1989, Dr. Peggy McIntosh, a White American researcher, developed a checklist based on her experiences of privilege as a White woman. Her work on White Privilege: Unpacking the Invisible Knapsack became a powerful exercise on how power and privilege work as one moves around in their daily life. Her statements focus on race-based privilege for White folks irrespective of their commitment to racial equality. On the other side, being a person of color (POC) or BIPOC or non-White in a predominantly White society leaves one with daily encounters rooted in discrimination and hardship.
 
-In 1989, Peggy McIntosh a White American researcher developed a checklist based on her experiences of privilege as a White woman. This is a powerful exercise to understand your power and privilege as you move day-in and day-out in your life. Her statements focus on race-based privilege.
+Motivated by her work, I have prepared the below checklist to show other forms of privilege. The Critical Race Theory and especially the concept of Intersectionality as developed by Prof. Dr. Kimberlé Crenshaw has increased my understanding of different forms of privilege beyond race. This checklist of privilege expands to incorporate the intersectional nature of unequal experiences and resulting discrimination. These are a few examples of how power and privilege are distributed based on our social identities and geographical location.
 
-Motivated by her work, I prepared the below checklist to show other forms of privileges. In the current scenario where Critical Race Theory and especially the concept of Intersectionality as developed by Prof. Dr. Kimberlé Crenshaw has taken a center stage, my understanding of privilege expanded to incorporate the intersectional nature of our being. It shows different forms of privilege we experience based on our different identities. The statements are just a few examples of how power and privilege are distributed based on who we are and where we are.
+As I am currently working at a university in Germany, many of these statements are part of my personal and professional experience. 
 
-As I am currently working at a university in Germany, many of these statements are based on my current personal and professional experience.
-The following statements reflect aspects of our daily life. They were adapted and created based on the work of Dr. Peggy McIntosh’s work on “White Privilege: Unpacking the Invisible Knapsack” (McIntosh, 1989).
+**Instructions for the activity:** Please read each statement and indicate whether you agree or disagree with it. If you are unsure/unfamiliar, answer in a way that is most like you. There are no right or wrong responses.
 
-Instructions for the activity: Please read each statement and indicate whether you agree or disagree with it. If you are unsure/unfamiliar, simply answer in a way that is most like you. There are no right or wrong responses.
 
 1. I do not have to worry about accessibility when choosing a restaurant to visit.
 2. I can walk into any public place without worrying about uncomfortable stares from the people due to my clothes.
