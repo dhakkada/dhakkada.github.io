@@ -6,6 +6,8 @@ tags: [diversity]
 categories: [posts]
 ---
 
+# Why diversity is my focus (part 1)
+
 When we grow up in a certain structure of a certain society we get used to it. As we grow within the structure, we learn and absorb our behavior, attitudes, beliefs and habits from our surroundings. Once in a while, we may pose a question or two but as a member of that society, we adapt to the rhythm around us.
 
  
