@@ -6,7 +6,7 @@ tags: [personal]
 categories: [post]
 ---
 
-## Life's gamble
+# Life's gamble
 
 Life can be hard at times for all of us. For us it started when we moved to a new country. It’s not just another country. It’s the United States - a place that people all over the world wishes to come. At the same time, there are thousands of restrictions for immigrants and students like us. Recently, I discovered that countries like Canada, Australia and New Zealand has lesser restrictions for students, their spouses and immigrants. Well, America also had had a permissive immigration system in seventies and eighties. However, it is saturated now, and so the borders are less permeable. 
 
